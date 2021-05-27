@@ -5,7 +5,7 @@ sections:
     title: Pricing.......??
     subtitle: >-
       App Land offers affordable plans for private, family and business
-      use.???????..
+      use.???????..!!!
     align: center
     padding_top: large
     padding_bottom: small
