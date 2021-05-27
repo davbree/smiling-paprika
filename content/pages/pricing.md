@@ -3,7 +3,9 @@ title: Pricing
 sections:
   - type: hero_section
     title: Pricing.....
-    subtitle: 'App Land offers affordable plans for private, family and business use.???'
+    subtitle: >-
+      App Land offers affordable plans for private, family and business
+      use.???????
     align: center
     padding_top: large
     padding_bottom: small
